@@ -4,7 +4,7 @@ void main()
 {
   //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
   // to see how IntelliJ IDEA suggests fixing it.
-  IO.println(String.format("Hello and welcome!"));
+System.out.println("Hello, GitHub! Now edited in VSCode.");
 
   for (int i = 1; i <= 5; i++)
   {
